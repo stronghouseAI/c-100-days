@@ -2,7 +2,6 @@
 
 int  main(void) {
  
-    print("Hello, C\n
-        Day 1 of 100"\n);
+    printf("Hello, C!\nDay 1 of 100\n");
     return 0;
 }
