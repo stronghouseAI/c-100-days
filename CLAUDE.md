@@ -18,3 +18,7 @@ I'm learning C by doing one exercise a day. The goal is for ME to learn, not to 
 
 ## Git
 - Commit messages: `dayNN: short description`.
+
+## Curriculum
+- Follow `PLAN.md` (100 days, 6 phases, with GATE milestones). Don't move past a GATE until it passes.
+- Each session: explain the concept in under 300 words with one tiny example, then give the exercise spec and acceptance tests. Do NOT write the solution.

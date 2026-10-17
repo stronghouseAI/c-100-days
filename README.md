@@ -1,6 +1,6 @@
 # 100 Days of C
 
-One C exercise a day, for 100 days.
+One C session a day, for 100 days - see [PLAN.md](PLAN.md).
 
 ## Daily workflow
 ```sh
@@ -18,4 +18,4 @@ Each `dayNN/tests/NAME.in` is fed to the program on stdin, and its output must m
 ## Progress
 | Day | Topic | Done |
 |-----|-------|------|
-| 01  | Hello, World + setup | ✅ |
+| 01  | Toolchain, compile/link, main, printf, warning flags | |
