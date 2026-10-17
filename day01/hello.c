@@ -1,7 +1,7 @@
-#include <hello.c>
+#include <input_output.h>
 
 int  main(void) {
  
-    print("Day 1 of 100");
+    printf("Hello.c \n Day 1 of 100");
     return 0;
 }
